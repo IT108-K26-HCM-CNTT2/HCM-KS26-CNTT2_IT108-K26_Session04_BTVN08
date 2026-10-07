@@ -1,0 +1,5 @@
+THỰC HIỆN CÁC LỆNH TẠO THƯ MỤC VÀ TẠO FILE BẰNG TERMINAL
+
+- mkdir drink_module
+- cd drink_module
+- touch coffee.txt tea.txt
